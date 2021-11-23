@@ -1,0 +1,1 @@
+Client gửi ảnh cho server. Server nhận nó và lưu vào thư mục "received"
